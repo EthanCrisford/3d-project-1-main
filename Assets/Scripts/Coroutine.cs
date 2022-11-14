@@ -26,7 +26,7 @@ public class Coroutine : MonoBehaviour
             tankrb.AddForce(transform.forward * speed, ForceMode.Impulse);
             yield return new WaitForSeconds(2f);
 
-            yRotation = 0.3f;
+            yRotation = 0.1f;
             yield return new WaitForSeconds(2);
             yRotation = 0f;
 
