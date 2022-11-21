@@ -387,7 +387,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -824,9 +824,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.14806221, y: 0.49837747, z: -0.086831816, w: -0.8497986}
   m_Size:
-    m_Target: 9.091294
+    m_Target: 11.736833
     speed: 2
-    m_Value: 8.699803
+    m_Value: 11.231419
   m_Ortho:
     m_Target: 1
     speed: 2
